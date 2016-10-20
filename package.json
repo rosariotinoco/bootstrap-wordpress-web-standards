@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap-wordpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rosariotinoco/bootstrap-wordpress-web-standards.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rosariotinoco/bootstrap-wordpress-web-standards/issues"
+  },
+  "homepage": "https://github.com/rosariotinoco/bootstrap-wordpress-web-standards#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.5",
+    "tether": "^1.3.7"
+  }
+}
